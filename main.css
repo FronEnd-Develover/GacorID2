@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.JACKPOT {
+  text-align: center;
+  text-shadow: 0 2px 1px white;
+}
+
+.marquee1 {
+  margin-top: 8px;
+  border-top: 3px solid red;
+  color: #fff;
+}
+.marquee2{
+  margin-top: 10px;
+  background-color: blue;
+  color: white;
+}
+
+.login {
+  padding-top: 10px;
+  text-align: center;
+  border-top: 2px solid red;
+}
+.input-mail {
+  background-color: white;
+  color: red;
+}
+.email {
+  color: red;
+}
+.gembok {
+  color: red;
+}
+
+button {
+  background-color: red;
+  color: white;
+}
+.button2 {
+  background-color: skyblue;
+  color: white;
+}
+h1 {
+  text-align: center;
+  margin-top: 12px;
+  color: #fff;
+}
+p {
+  text-align: center;
+  color: white;
+}
+
+.container {
+  background-color: black;
+}
+.p1 {
+  text-align: center;
+  margin-top: 50px;
+  color: red;
+}
+
+.p2 {
+  text-align: center;
+  margin-top: 15px;
+}
+.img2 {
+  text-align: center;
+  margin-top: 20px;
+}
+.img3 {
+  margin-top: 12px auto;
+}
+
+h3 {
+  margin-top: 50px;
+  color: #fff;
+}
+.togel {
+  color:white;
+}
+
+ul {
+  margin-top: 20px;
+}
+
+.tgl {
+  background-color: #a9a9a9;
+}
+
+.img4 {
+  margin-top: 15px;
+  background-color: red;
+}
+
+.Transaksi {
+  margin-top: 17px;
+}
+
+.img5 {
+  margin-top: 10px;
+}
+
+.emoney {
+  margin-top: 50px;
+}
+
+.bantuan {
+  margin-top: 30px;
+}
+.bantuan a {
+  text-decoration: none;
+  color: white;
+}
+
+.bantuan a:hover {
+  background-color: black;
+  color: red;
+}
+
+.INFO {
+  color: white;
+  margin-top: 60px;
+}
+
+.info1 {
+  text-align: center;
+  color: yellow;
+}
