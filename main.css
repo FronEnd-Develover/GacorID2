@@ -7,6 +7,10 @@
   text-shadow: 0 2px 1px white;
 }
 
+.JACKPOT span {
+  color: green;
+}
+
 .marquee1 {
   margin-top: 8px;
   border-top: 3px solid red;
