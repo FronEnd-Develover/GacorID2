@@ -18,10 +18,32 @@
   color: white;
 }
 
+.daftar-akun {
+  display: flex;
+  justify-content: center;
+}
+
+.daftar-akun h2 {
+  color: #fff;
+  text-align: center;
+  background-color: #808080;
+}
+
 .login {
-  padding-top: 10px;
+  padding-top: 1rem;
   text-align: center;
   border-top: 2px solid red;
+}
+
+.masuk  {
+  text-align: center;
+  justify-content: center;
+}
+
+.masuk a {
+  color: #fff;
+  background-color: skyblue;
+  text-decoration: none;
 }
 .input-mail {
   background-color: white;
@@ -36,12 +58,11 @@
 
 button {
   background-color: red;
-  color: white;
+  color: #fff;
+  padding-left: 35px;
+  padding-right: 35px;
 }
-.button2 {
-  background-color: skyblue;
-  color: white;
-}
+
 h1 {
   text-align: center;
   margin-top: 12px;
@@ -127,4 +148,16 @@ ul {
 .info1 {
   text-align: center;
   color: yellow;
+}
+
+pooter {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgb(127,0,0);
+}
+pooter ul li{
+  display: inline-block;
+  margin: 0 1.3rem;
 }
