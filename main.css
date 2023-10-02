@@ -161,7 +161,16 @@ pooter {
   bottom: 0;
   background-color: rgb(127,0,0);
 }
+
 pooter ul li{
   display: inline-block;
   margin: 0 1.3rem;
+}
+
+pooter ul li a {
+  color: #fff;
+}
+
+details {
+  background-color: #fff;
 }
